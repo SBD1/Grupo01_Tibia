@@ -11,6 +11,8 @@ import background from './src/components/itens/inventario.jpg';
 
 import './src/scss/index.scss';
 
+
+
 const App = () => {
     const {
         map = [],
